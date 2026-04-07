@@ -1,7 +1,12 @@
 aid: regal-beloit
-url: https://raw.githubusercontent.com/api-evangelist/regal-beloit/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/regal-beloit/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.regal-beloit.com
+description: >-
+  Regal Beloit was a global manufacturer of electric motors, electrical motion controls,
+  power generation, and power transmission products before merging with Rexnord's
+  Process & Motion Control segment to become Regal Rexnord.
