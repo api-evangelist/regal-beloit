@@ -1,0 +1,128 @@
+vocabulary:
+  name: Regal Beloit Vocabulary
+  description: >-
+    Domain vocabulary for Regal Beloit Corporation, a global manufacturer of
+    electric motors, electrical motion controls, power generation, and power
+    transmission products. Prior to its 2021 merger with Rexnord to form Regal
+    Rexnord, Regal Beloit operated major industrial brands including Marathon,
+    Leeson, Genteq, and Browning.
+  version: 1.0.0
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  source: https://www.regalrexnord.com
+
+terms:
+  - term: Electric Motor
+    definition: >-
+      An electromechanical device that converts electrical energy into mechanical
+      rotational energy. Regal Beloit manufactured AC induction motors, DC motors,
+      permanent magnet motors, and brushless DC motors under brands including
+      Marathon, Leeson, and Genteq.
+    tags:
+      - Core Product
+      - Electromechanical
+
+  - term: Brushless DC Motor (BLDC)
+    definition: >-
+      A type of electric motor that uses electronic commutation instead of
+      mechanical brushes. Regal Beloit's Genteq brand dominates the residential
+      HVAC variable-speed motor market with BLDC technology.
+    tags:
+      - Motor Type
+      - HVAC
+
+  - term: Variable Speed Drive (VSD)
+    definition: >-
+      An electronic device that controls the rotational speed and torque of an
+      electric motor by varying the frequency and voltage of the power supply.
+      Also called a Variable Frequency Drive (VFD) or inverter drive.
+    tags:
+      - Controls
+      - Energy Efficiency
+
+  - term: Power Transmission
+    definition: >-
+      Mechanical components that transfer rotational energy from a motor to driven
+      equipment. Includes gear reducers, belts, pulleys, couplings, and drives.
+      Regal Beloit's Browning brand is a leading power transmission supplier.
+    tags:
+      - Core Product
+      - Mechanical
+
+  - term: Horsepower (HP)
+    definition: >-
+      A unit of power used to measure motor output. Regal Beloit manufactured
+      motors ranging from fractional horsepower (less than 1 HP) to hundreds
+      of HP for industrial applications.
+    tags:
+      - Specification
+      - Unit
+
+  - term: NEMA Frame
+    definition: >-
+      A standardized motor frame size designation established by the National
+      Electrical Manufacturers Association (NEMA) defining mounting dimensions,
+      shaft height, and diameter. NEMA frames ensure motor interchangeability.
+    tags:
+      - Standard
+      - Specification
+
+  - term: Efficiency Class
+    definition: >-
+      A motor energy efficiency tier defined by NEMA or the International
+      Electrotechnical Commission (IEC). Classes include IE1 (Standard),
+      IE2 (High Efficiency), IE3 (Premium Efficiency), and IE4 (Super Premium).
+    values:
+      - IE1
+      - IE2
+      - IE3
+      - IE4
+      - NEMA Premium
+    tags:
+      - Standard
+      - Energy
+
+  - term: Genteq
+    definition: >-
+      A Regal Beloit brand specializing in ECM (Electronically Commutated Motor)
+      and brushless DC motors for HVAC applications. Genteq motors power virtually
+      all variable-speed residential HVAC equipment sold in the United States.
+    tags:
+      - Brand
+      - HVAC
+
+  - term: Marathon
+    definition: >-
+      A Regal Beloit brand manufacturing AC induction motors for commercial and
+      industrial applications including pumps, compressors, fans, conveyors,
+      and commercial HVAC equipment.
+    tags:
+      - Brand
+      - Industrial
+
+  - term: IIoT (Industrial Internet of Things)
+    definition: >-
+      The application of internet-connected sensors and analytics to industrial
+      equipment. Regal Rexnord (successor to Regal Beloit) developed the
+      Perceptiv platform for motor condition monitoring and predictive maintenance.
+    tags:
+      - Digital
+      - Industry 4.0
+
+  - term: Perceptiv
+    definition: >-
+      Regal Rexnord's IIoT digital platform for motor and drive performance
+      monitoring, condition-based maintenance, and asset management. The platform
+      emerged from capabilities developed during the Regal Beloit era.
+    tags:
+      - Digital Platform
+      - Predictive Maintenance
+
+  - term: Regal Rexnord
+    definition: >-
+      The successor company to Regal Beloit Corporation, formed in October 2021
+      when Regal Beloit merged with Rexnord's Process & Motion Control segment.
+      Regal Rexnord continues all prior Regal Beloit product lines.
+    tags:
+      - Corporate
+      - History

@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "regal": "https://api-evangelist.github.io/regal-beloit/vocab#",
+    "id": "@id",
+    "type": "@type",
+    "Product": "schema:Product",
+    "name": "schema:name",
+    "description": "schema:description",
+    "brand": "schema:brand",
+    "manufacturer": "schema:manufacturer",
+    "Organization": "schema:Organization",
+    "url": "schema:url",
+    "ElectricMotor": {
+      "@id": "regal:ElectricMotor",
+      "@type": "schema:Product"
+    },
+    "horsepower": "regal:horsepower",
+    "nemaFrame": "regal:nemaFrame",
+    "efficiencyClass": "regal:efficiencyClass",
+    "motorType": "regal:motorType",
+    "voltage": "regal:voltage",
+    "frequency": "regal:frequency",
+    "rpm": "regal:rpm",
+    "phase": "regal:phase",
+    "enclosure": "regal:enclosure",
+    "application": "schema:additionalType",
+    "PowerTransmissionProduct": {
+      "@id": "regal:PowerTransmissionProduct",
+      "@type": "schema:Product"
+    },
+    "gearRatio": "regal:gearRatio",
+    "torque": "regal:torque",
+    "beltProfile": "regal:beltProfile"
+  }
+}
