@@ -11,6 +11,8 @@ description: >-
   for motor condition monitoring and predictive maintenance.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/regal-beloit-domain-security.yml
   - type: Website
     url: https://www.regalrexnord.com
   - type: Website
