@@ -1,7 +1,9 @@
 ---
 title: Regal Completes Merger With Rexnord PMC, Creating ...
 url: https://www.prnewswire.com/news-releases/regal-completes-merger-with-rexnord-pmc-creating-regal-rexnord-corporation-accelerating-its-transformation-into-a-faster-growing-more-profitable-enterprise-301392130.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Regal Beloit" press release artificial intelligence'
 position: 3
 source: serpapi-google

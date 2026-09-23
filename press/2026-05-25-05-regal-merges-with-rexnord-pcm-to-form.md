@@ -1,7 +1,9 @@
 ---
 title: REGAL MERGES WITH REXNORD PCM TO FORM ...
 url: https://mundolatas.com/en/regal-merges-with-rexnord-pcm-to-form-regal-rexnord-corporation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Regal Beloit" press release artificial intelligence'
 position: 5
 source: serpapi-google
